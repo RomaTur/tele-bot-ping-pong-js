@@ -1,0 +1,28 @@
+{
+  "name": "telegram-ping-pong-js",
+  "version": "0.0.1",
+  "description": "text telebot on js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomaTur/tele-bot-ping-pong-js.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "typescript",
+    "ping-pong"
+  ],
+  "author": "Roman Turusov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomaTur/tele-bot-ping-pong-js/issues"
+  },
+  "homepage": "https://github.com/RomaTur/tele-bot-ping-pong-js#readme",
+  "dependencies": {
+    "telegraf": "^3.25.0"
+  }
+}
